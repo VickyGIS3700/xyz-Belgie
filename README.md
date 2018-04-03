@@ -13,10 +13,11 @@ copie/paste dit script en script uitvoeren
 
 Je hoeft niet meer alle info één voor één in te voeren!
 
-Script by Klas Karlsson
 
-Part Belgium: 
+Script door Klas Karlsson
 
-   Sources collected by MStuyts en Informatie Vlaanderen (geopunt.be)
+Het gedeelte van Vlaanderen/België: 
+
+   Data door by MStuyts en Informatie Vlaanderen (geopunt.be)
    
-   script added by Vicky Verscheijden (@gis3700)
+   script aangevuld door by Vicky Verscheijden (@gis3700)
