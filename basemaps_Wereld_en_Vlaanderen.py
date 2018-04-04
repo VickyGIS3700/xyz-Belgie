@@ -69,7 +69,7 @@ sources.append(["connections-xyz","B-Noodgevallen", "", "", "", "https://geo6.be
 sources.append(["connections-xyz","B-Gerechterlijk", "", "", "", "https://geo6.be/mapproxy/zones/wmts/judicial/webmercator/%7Bz%7D/%7Bx%7D/%7By%7D.png", "", "20", "0"])
 sources.append(["connections-xyz","B-Politie", "", "", "", "https://geo6.be/mapproxy/zones/wmts/police/webmercator/%7Bz%7D/%7Bx%7D/%7By%7D.png", "", "20", "0"])
 
-sources.append(["connections-xyz","B-openstreetmaps", "", "", "OpenStreetMap contributors, CC-BY-SA", "https://tile.osm.be/osmbe-nl/%7Bz%7D/%7Bx%7D/%7By%7D.png", "", "19", "0"])
+sources.append(["connections-xyz","B-OpenStreetMap", "", "", "OpenStreetMap contributors, CC-BY-SA", "https://tile.osm.be/osmbe-nl/%7Bz%7D/%7Bx%7D/%7By%7D.png", "", "19", "0"])
 
 
 # Add sources to browser
